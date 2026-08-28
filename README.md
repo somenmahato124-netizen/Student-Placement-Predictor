@@ -1,4 +1,4 @@
-﻿# Student-Placement-Predictor
+
 # 🎓 Student Placement Prediction
 
 A Machine Learning based Student Placement Prediction System that predicts whether a student is likely to be **Placed** or **Not Placed** based on academic and study-related features.
